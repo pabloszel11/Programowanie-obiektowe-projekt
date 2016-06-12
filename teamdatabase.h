@@ -30,7 +30,6 @@ protected:
     TeamStats tst;
 
 public:
-    Player getRoster();
     void setName(string n);
     string getTeamName();
     void showRoster();
@@ -45,7 +44,6 @@ class Database : public Team
 
 public:
     void downloadData();
-    void addTeam();
     friend void showTeams(Database d);
     friend class Game;
 };
