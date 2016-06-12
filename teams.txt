@@ -1,0 +1,41 @@
+Cleveland Cavaliers
+2 Kyrie Irving PG
+5 JR Smith SG
+23 Lebron James SF
+0 Kevin Love PF
+13 Tristan Thompson C
+24 Richard Jefferson SF
+8 Matthew Dellavedova PG
+4 Iman Shumpert SG
+9 Channing Frye PF
+25 Timofey Mozgov C
+1 James Jones SF
+52 Mo Williams PG
+
+San Antonio Spurs
+9 Tony Parker PG
+20 Manu Ginobili SG
+2 Kawhi Leonard SF
+12 LaMarcus Aldridge PF
+21 Tim Duncan C
+8 Patty Mills PG
+14 Danny Green SG
+22 David West PF
+47 Boban Marjanovic C
+23 Kevin Martin SG
+17 Jonathan Simmons SF
+
+Golden State Warriors
+30 Stephen Curry PG
+11 Klay Thompson SG
+40 Harrison Barnes SF
+9 Andre Iguodala SF
+23 Draymond Green PF
+12 Andrew Bogut C
+5 Marreese Speights C
+19 Leandro Barbosa SG
+34 Shaun Livingston PG
+31 Festus Ezeli C
+21 Ian Clark PG
+25 Brandon Rush SG
+
