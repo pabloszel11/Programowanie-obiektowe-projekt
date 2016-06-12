@@ -129,7 +129,7 @@ bool Stats :: threePointShotTaken()
         fga++;
         tpm++;
         tpa++;
-        pts = pts + 3;
+        pts += 3;
         return true;
     }
     else
